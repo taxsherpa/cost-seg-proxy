@@ -1,0 +1,7 @@
+{
+  "name": "cost-seg-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for Realtor API to hide RapidAPI key",
+  "type": "module",
+  "license": "MIT"
+}
